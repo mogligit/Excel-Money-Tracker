@@ -25,6 +25,8 @@ You must specify whether the income is *Primary* or *Secondary* under the *Incom
  - Primary: this is your main income, such as your monthly wage or quarterly student loan
  - Secondary: any other form of extra income
 
+> **Important:** you must click 'Data' > 'Refresh All' for the changes to be applied
+
 For simplicity, *Spread* is not explained here.
  
 **Recurring**
